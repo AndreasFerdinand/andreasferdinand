@@ -33,7 +33,11 @@ The progamming language, I spent most of my time is ABAP :nerd_face:.
 
 <h3 align="left">Certifications & Trainings (selection)</h3>
 
+![SAP-Certified-Associate-Back-End-Developer-ABAP-Cloud](./SAP-Certified-Associate-Back-End-Developer-ABAP-Cloud.png)
 ![sap-certified-associate-developer-sap-sales-and-ser](./sap-certified-associate-developer-sap-sales-and-ser.png)
 ![managing-clean-core-for-sap-s-4hana-cloud-record-of](./managing-clean-core-for-sap-s-4hana-cloud-record-of.png)
 ![sap-certified-technology-associate-sap-hana-2-0-sps02](./sap-certified-technology-associate-sap-hana-2-0-sps02.png)
 ![sap-certified-development-consultant-sap-hybris-cloud-for-customer-1711](./sap-certified-development-consultant-sap-hybris-cloud-for-customer-1711.png)
+
+* ITIL Foundation
+* SCRUM Master
